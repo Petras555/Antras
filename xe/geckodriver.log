@@ -1,0 +1,58 @@
+1651076761609	geckodriver	INFO	Listening on 127.0.0.1:65107
+1651076764656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofile3ayWul"
+1651076765002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofile3ayWul\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65108/devtools/browser/48729972-096c-4b5d-b2b4-8b4fcc9564a2
+1651076766980	Marionette	INFO	Listening on port 65144
+Read port: 65144
+1651076767011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651076770791	Marionette	INFO	Stopped listening on port 65144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651076776582	geckodriver	INFO	Listening on 127.0.0.1:65220
+1651076779606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofile8HxTpn"
+1651076779884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofile8HxTpn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65221/devtools/browser/76678584-af07-4d5d-b9f6-55b0e10a6d77
+1651076781602	Marionette	INFO	Listening on port 65256
+Read port: 65256
+1651076781724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651076784621	Marionette	INFO	Stopped listening on port 65256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651076826081	geckodriver	INFO	Listening on 127.0.0.1:65453
+1651076829114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65454" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofileywpxs2"
+1651076829417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofileywpxs2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65454/devtools/browser/ed154e90-97c6-44dc-bc6b-8328678f6e02
+1651076831224	Marionette	INFO	Listening on port 65492
+Read port: 65492
+1651076831250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1651077880131	Marionette	INFO	Stopped listening on port 65492
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofileFum3px"
+1651076973081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofileFum3px\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49762/devtools/browser/c5f40b95-a04f-4a71-9229-1342ed80d671
+1651076974862	Marionette	INFO	Listening on port 49815
+Read port: 49815
+1651076974907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1651077880894	Marionette	INFO	Stopped listening on port 49815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+le at C:\\Users\\Pert\\AppData\\Local\\Temp\\rust_mozprofile2JPp6d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51643/devtools/browser/c77f4406-ae87-49d3-b716-7d6f363d81c4
+1651077403427	Marionette	INFO	Listening on port 51692
+Read port: 51692
+1651077403487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651077881489	Marionette	INFO	Stopped listening on port 51692
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

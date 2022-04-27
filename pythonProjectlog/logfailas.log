@@ -1,0 +1,14 @@
+2022-04-06 20:41:18,475:ERROR:Stringas, ne skaicius
+Traceback (most recent call last):
+  File "C:\Users\Pert\Desktop\Katalogas\pythonProjectlog\main.py", line 21, in saknis
+    sak = math.sqrt(c)
+TypeError: must be real number, not str
+2022-04-06 20:41:18,476:ERROR:Dalyba is nulio
+Traceback (most recent call last):
+  File "C:\Users\Pert\Desktop\Katalogas\pythonProjectlog\main.py", line 34, in dalyba
+    dal = x / y
+ZeroDivisionError: division by zero
+2022-04-06 20:41:18,476:INFO:Sudetis: 10 + 15 = 25 
+ Saknis: sqrt(25) = None 
+ ilgis = lenasgasg = 6 
+ Dalyba: 40 / 0 = None  
